@@ -1,4 +1,4 @@
-This is Just a Clone  of The Uniswapv2 Smart Contract
+This is Just a Clone  of The Uniswap v2-core
 
 # Uniswap V2
 
