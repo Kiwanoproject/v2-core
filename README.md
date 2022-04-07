@@ -1,3 +1,5 @@
+This is Just a Clone  of The Uniswapv2 Smart Contract
+
 # Uniswap V2
 
 [![Actions Status](https://github.com/Uniswap/uniswap-v2-core/workflows/CI/badge.svg)](https://github.com/Uniswap/uniswap-v2-core/actions)
